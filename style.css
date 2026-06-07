@@ -21,3 +21,14 @@ a {
     font-family: 'Times New Roman', serif;
     font-size: 25px;
 }
+
+.pfp {
+    display: flex;
+    align-items: center;
+    gap: 0px;
+}
+
+.pfp img {
+    width: 33px;
+    height: 25px;
+}
