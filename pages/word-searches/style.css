@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(212, 53, 53);
+}
+
+p {
+    font-family: 'Comic Sans MS', cursive;
+    color: rgb(112, 14, 14);
+    text-align: center;
+    top: 200px;
+}
