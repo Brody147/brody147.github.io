@@ -35,6 +35,6 @@ a {
 }
 
 .githubrepo {
-    position: relative;
-    left: 100px;
+    position: absolute;
+    text-align: right;
 }
