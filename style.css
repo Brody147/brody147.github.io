@@ -45,6 +45,7 @@ a {
 }
 
 .githubrepo {
+    text-decoration: underline;
     position: absolute;
     right: 0px;
     top: 50px;
@@ -59,13 +60,13 @@ a {
 
 .files {
     position: relative;
-    top: 60px;
+    top: 100px;
     text-align: center;
 }
 
 .secondheading {
     position: relative;
-    top: 30px;
+    top: 60px;
     font-family: 'Caveat', cursive;
     color: rgb(112, 14, 14);
     text-align: center;
