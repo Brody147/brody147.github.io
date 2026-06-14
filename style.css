@@ -9,11 +9,15 @@ a {
     text-align: center;
 }
 
-h1{
-    text-decoration: bold;
+h1 {
+    text-align: left;
+    color: rgb(148, 22, 22);
+    font-family: 'Times New Roman', serif;
+    font-size: 25px;
 }
 
 a {
+    text-decoration: none;
     font-size: 20px;
 }
 
@@ -26,7 +30,6 @@ a {
     display: flex;
     align-items: center;
     gap: 0px;
-    text-decoration: none;
 }
 
 .pfp img {
@@ -45,4 +48,15 @@ a {
     color: rgb(119, 18, 18);
     font-family: 'Caveat', cursive;
     font-weight: bold;
+}
+
+.files {
+    position: relative;
+    top: 60px;
+    text-align: center;
+}
+
+.secondheading {
+    position: relative;
+    top: 30px;
 }
