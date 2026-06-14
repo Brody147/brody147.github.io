@@ -64,10 +64,12 @@ a {
 }
 
 .file2 {
+    position: absolute;
     top: 20px;
 }
 
 .file3 {
+    position: absolute;
     top: 40px;
 }
 
