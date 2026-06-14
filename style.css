@@ -66,4 +66,7 @@ a {
 .secondheading {
     position: relative;
     top: 30px;
+    font-family: 'Caveat', cursive;
+    color: rgb(112, 14, 14);
+    text-align: center;
 }
