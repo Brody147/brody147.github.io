@@ -26,6 +26,7 @@ a {
     display: flex;
     align-items: center;
     gap: 0px;
+    text-decoration: none;
 }
 
 .pfp img {
@@ -37,4 +38,11 @@ a {
     position: absolute;
     right: 0px;
     top: 50px;
+}
+
+.brody147 {
+    text-align: left;
+    color: rgb(119, 18, 18);
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
 }
