@@ -46,6 +46,7 @@ a {
 }
 
 .githubrepo {
+    position: absolute;
     right: 10px;
     top: 10px;
 }
@@ -58,17 +59,18 @@ a {
 }
 
 .files {
+    position: relative;
     top: 100px;
     text-align: center;
 }
 
 .file2 {
-    left: 0px;
+    position: relative;
     top: 20px;
 }
 
 .file3 {
-    left: 0px;
+    position: relative;
     top: 40px;
 }
 
