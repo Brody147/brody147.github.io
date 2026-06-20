@@ -46,7 +46,6 @@ a {
 }
 
 .githubrepo {
-    position: absolute;
     right: 10px;
     top: 10px;
 }
@@ -59,25 +58,21 @@ a {
 }
 
 .files {
-    position: absolute;
     top: 100px;
     text-align: center;
 }
 
 .file2 {
-    position: absolute;
     left: 0px;
     top: 20px;
 }
 
 .file3 {
-    position: absolute;
     left: 0px;
     top: 40px;
 }
 
 .secondheading {
-    position: absolute;
     left: 0px;
     top: 60px;
     font-family: 'Caveat', cursive;
