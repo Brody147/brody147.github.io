@@ -36,6 +36,7 @@ a {
     text-decoration: none;
     align-items: center;
     gap: 0px;
+    display: inline-block;
     width: fit-content;
 }
 
@@ -65,16 +66,19 @@ a {
 
 .file2 {
     position: absolute;
+    left: 0px;
     top: 20px;
 }
 
 .file3 {
     position: absolute;
+    left: 0px;
     top: 40px;
 }
 
 .secondheading {
     position: absolute;
+    left: 0px;
     top: 60px;
     font-family: 'Caveat', cursive;
     color: rgb(112, 14, 14);
